@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const studentname = "sarrah"
+  const studentname = "sarra"
   const student = {
     name: "Sarra",
     age: 20,
